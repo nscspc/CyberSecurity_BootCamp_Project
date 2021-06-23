@@ -1,0 +1,50 @@
+Weather Stats for JAIPUR  ||  22 Jun 2021 | 09:28:34 PM
+34.620000000000005
+haze
+38
+2.57
+Weather Stats for JAIPUR  ||  22 Jun 2021 | 09:30:11 PM
+34.620000000000005
+haze
+38
+2.57
+Weather Stats for RANCHI  ||  22 Jun 2021 | 09:34:56 PM
+23.060000000000002
+haze
+100
+3.09
+Weather Stats for RANCHI  ||  22 Jun 2021 | 09:37:06 PM
+23.060000000000002
+haze
+100
+3.09
+Weather Stats for JAIPUR  ||  22 Jun 2021 | 09:38:02 PM
+34.620000000000005
+haze
+38
+2.57
+Weather Stats for JAIPUR  ||  22 Jun 2021 | 09:39:45 PM
+34.620000000000005
+haze
+38
+2.57
+Weather Stats for UDAIPUR  ||  22 Jun 2021 | 09:40:50 PM
+25.220000000000027
+overcast clouds
+75
+2.67
+Weather Stats for KOTA  ||  22 Jun 2021 | 09:43:49 PM
+33.27000000000004
+broken clouds
+45
+7.77
+Weather Stats for JAIPUR  ||  22 Jun 2021 | 09:45:29 PM
+34.620000000000005
+haze
+38
+2.57
+Weather Stats for KOTA  ||  22 Jun 2021 | 09:50:17 PM
+33.27000000000004
+broken clouds
+45
+7.77
